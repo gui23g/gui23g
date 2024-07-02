@@ -6,13 +6,13 @@
 
 💡&ensp;At INTELI, I engage in a Project-Based Learning (PBL) environment where I collaborate on projects with real companies, tackling real-world problems.
 
-### Conecte-se comigo
+### Connect with me
 
 [![Itch.io](https://img.shields.io/badge/-Itch.io-000?style=for-the-badge&logo=itch.io&logoColor=FF77A9)](https://gui23g.itch.io/)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](http://www.youtube.com/@RookieGameDev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/guilhermelopescarvalho/)
 
-### Habilidades
+### Skills
 
 ![Godot](https://img.shields.io/badge/GDScript-000?style=for-the-badge&logo=godot-engine&logoColor=478CBF)
 ![GameMaker Studio 2](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)
