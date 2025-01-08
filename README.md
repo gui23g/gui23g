@@ -1,6 +1,6 @@
 # Guilherme Lopes de Carvalho
 
-👋&ensp;Hey! My name is Guilherme Carvalho, but you might know me as BG from the YouTube channel Rookie Game Dev. I'm a Game Developer and a Software Engineering student at INTELI (Instituto de Tecnologia e Liderança).
+👋&ensp;Hey! My name is Guilherme Carvalho, but you might know me as BG from the YouTube channel BG Game Dev. I'm a Game Developer and a Software Engineering student at INTELI (Instituto de Tecnologia e Liderança).
 
 🌟&ensp;I deeply believe in the transformative power of technology and strive to share this message with everyone, just as technology has profoundly impacted my life.
 
