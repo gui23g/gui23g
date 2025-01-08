@@ -8,8 +8,8 @@
 
 ### Connect with me
 
-[![Itch.io](https://img.shields.io/badge/-Itch.io-000?style=for-the-badge&logo=itch.io&logoColor=FF77A9)](https://gui23g.itch.io/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](http://www.youtube.com/@RookieGameDev)
+[![Itch.io](https://img.shields.io/badge/-Itch.io-000?style=for-the-badge&logo=itch.io&logoColor=FF77A9)](https://under-ctrl.itch.io/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@BGGameDev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/guilhermelopescarvalho/)
 
 ### Skills
